@@ -4,9 +4,6 @@ from bs4 import BeautifulSoup
 import base64
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
-# from spotipy.oauth2 import SpotifyOAuth
-
-# https://open.spotify.com/user/galan_funk?si=bd89c2fb5ee94016
 
 # credential from the api
 CLIENT_ID = 'your client id'
